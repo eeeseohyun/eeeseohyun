@@ -1,3 +1,4 @@
+<br/>
 <div align=center> 
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=E6E6FA&height=300&section=header&text=🐰SEOHYUN🐰%20&fontSize=90&fontColor=778899)
