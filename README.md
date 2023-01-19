@@ -52,4 +52,10 @@
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eeeseohyun&show_icons=true&theme=dracula)
   
+  
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=seohyun615)](https://solved.ac/seohyun615)
+
+<img src="http://mazandi.herokuapp.com/api?handle=seohyun615&theme=warm"/>
+
  </div>
+
