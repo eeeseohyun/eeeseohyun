@@ -13,7 +13,7 @@
   
 ### Thank you for visiting my github.🧸🎀
   
-### I'm major in Computer Engineering.🏫💻
+### I'm major in Application Software.🏫💻
  
 </div>
 
@@ -26,7 +26,7 @@
   
 ### 제 깃허브에 오신걸 환영합니다.🧸🎀
   
-### 명지대학교에서 컴퓨터공학을 전공하고 있습니다.🏫💻
+### 명지대학교에서 응용 소프트웨어를 전공하고 있습니다.🏫💻
   
 ### 저는 백엔드 서버 개발에 관심이 있고, 
   
