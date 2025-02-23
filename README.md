@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=FFC3C3&height=300&section=header&text=Seohyun%20Github&fontSize=90&textColor=FFFFFF" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFC3C3&height=200&section=header&text=Seohyun%20Github&fontSize=60&textColor=FFFFFF" />
 </p>
 
 <br/>
@@ -32,11 +32,11 @@
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"> <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
 
  <br/>
- 
+ <br/>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eeeseohyun&show_icons=true&theme=dracula)
 
 
-<img src="http://mazandi.herokuapp.com/api?handle=seohyun615&theme=warm"/>
 
  </div>
 
