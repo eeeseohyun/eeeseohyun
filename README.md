@@ -3,7 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FFC3C3&height=200&section=header&text=Seohyun%20Github&fontSize=60&textColor=FFFFFF" />
 </p>
 
-<br/>
 <div align=center>
   
 ### 안녕하세요. 저는 백엔드 개발자 이서현입니다.🐰
